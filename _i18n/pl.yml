@@ -1,0 +1,12 @@
+titles:
+  home: "Strona główna"
+  science: "Praca naukowa"
+  teaching: "Dydaktyka"
+  contact: "Kontakt"
+  moodle: "Platforma Moodle"
+  workshops: "Warsztaty technologii WWW"
+  not_found: "Nie znaleziono strony"
+  about_me: "O mnie"
+global:
+  polish: "polish version"
+  english: "english version"

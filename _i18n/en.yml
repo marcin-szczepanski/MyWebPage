@@ -1,0 +1,12 @@
+titles:
+  home: "Homepage"
+  science: "Science"
+  teaching: "Teaching"
+  contact: "Contact"
+  moodle: "Moodle platform"
+  workshops: "Web technologies workshops"
+  not_found: "Page not found"
+  about_me: "About me"
+global:
+  polish: "wersja polska"
+  english: "wersja angielska"
